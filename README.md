@@ -8,10 +8,10 @@
 ### Tutorial
 (Author: Gaia Grosso)
 
-Tutorial Materials
-- 
-Reference papers and book chapters for tutorials
-- 
+* Tutorial Materials
+  * 
+* Reference papers and book chapters for tutorials
+  *  
 
 ### Hackathon Problem
 
@@ -24,10 +24,10 @@ Reference papers and book chapters for tutorials
 ### Tutorial
 (Author: Thomas Harvey)
 
-Tutorial materials
-- 
-Reference papers and book chapters for tutorials
-- 
+* Tutorial Materials
+  * 
+* Reference papers and book chapters for tutorials
+  * 
 
 ### Hackathon Problem
 
@@ -42,10 +42,10 @@ Reference papers and book chapters for tutorials
 ### Tutorial
 (Author: Alex Atanasov)
 
-Tutorial Materials
-- 
-Reference papers and book chapters for tutorials
-- 
+* Tutorial Materials
+  * 
+* Reference papers and book chapters for tutorials
+  * 
 
 ### Hackathon Problem
 
@@ -59,10 +59,10 @@ Reference papers and book chapters for tutorials
 ### Tutorial
 (Author: Jessie Micallef)
 
-Tutorial Materials
-- 
-Reference papers and book chapters for tutorials
-- 
+* Tutorial Materials
+  * 
+* Reference papers and book chapters for tutorials
+  * 
 
 ### Hackathon Problem
 
