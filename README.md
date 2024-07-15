@@ -9,9 +9,11 @@
 (Author: Gaia Grosso)
 
 * Tutorial Materials
-  * 
+  
+  *   
 * Reference papers and book chapters for tutorials
-  *  
+  
+  *    
 
 ### Hackathon Problem
 
@@ -25,9 +27,11 @@
 (Author: Thomas Harvey)
 
 * Tutorial Materials
-  * 
+  
+  *   
 * Reference papers and book chapters for tutorials
-  * 
+  
+  *   
 
 ### Hackathon Problem
 
@@ -43,9 +47,11 @@
 (Author: Alex Atanasov)
 
 * Tutorial Materials
-  * 
+  
+  *   
 * Reference papers and book chapters for tutorials
-  * 
+  
+  *   
 
 ### Hackathon Problem
 
@@ -60,8 +66,10 @@
 (Author: Jessie Micallef)
 
 * Tutorial Materials
+  
   * 
 * Reference papers and book chapters for tutorials
+  
   * 
 
 ### Hackathon Problem
