@@ -8,9 +8,7 @@ __pycache__/
 *$py.class
 
 # custom
-chains/*
-source/soumyo/Generated_Mock_Data/*
-hal_sat_properties/MW_Sat_Data_NIHAO_RP17_MW_Mass_Filtration_Data.dat
+Day1/iaifi-summer-school-2024/lecture/*
 
 # C extensions
 *.so
