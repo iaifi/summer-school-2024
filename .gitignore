@@ -9,6 +9,7 @@ __pycache__/
 
 # custom
 Day1/iaifi-summer-school-2024/lecture/*
+dataset/*
 
 # C extensions
 *.so
