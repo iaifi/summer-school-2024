@@ -43,9 +43,6 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
   
   *   
 
-### Hackathon Problem
-
-
 ## 3. Scaling and renormalization in high-dimensional regression
 (Author: Cengiz Pehlevan)
 
@@ -63,9 +60,6 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
   
   *   
 
-### Hackathon Problem
-
-
 ## 4. Uncertainty Quantification
 (Author: Carol Cueta-Lazaro)
   
@@ -81,6 +75,28 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
 * Reference papers and book chapters for tutorials
   
   * 
+## 5. Hackathon
+At the end of the Hackathon on Friday, August 9, we will have a block for presentations of work done on these topics. Forming groups is strongly encouraged!
 
-### Hackathon Problem
+### Prompts
+* Train a variational auto-encoder on calorimeter data and use it for anomaly detection and/or for super-resolution of astronomical images.
+* Train a diffusion model on galaxy images and generate samples conditionally on noisy observations (e.g., corrupted by noise, missing pixels, etc).
+* Train a normalizing flow for simulation-based inference on gravitational lenses (e.g., substructure properties in strong lensing systems).
+* Apply simulation-based inference (SBI) to a new dataset (examples below). Can we use different ML methods for SBI outside of dense NNs and CNNs? Transformer? Other methods? 
+  * Astronomy
+  * Breast cancer histology
+  * Drift tube chamber data
+* Quantum reservoir computing: How does the QRC perform if we only collect 〈Zi〉 expectation values and drop 〈ZiZj〉 correlations? Why do you think this happens? How about adding connected 〈ZiZjZk〉 where {i, j, k} belong to a cluster of sites connected by the nearest neighbor bonds? Hint: Try to modify the readouts vector to exclude/include the correlations that are calculated. Based on this notebook: https://github.com/QuEraComputing/QRC-tutorials/blob/main/QRC%20Demo%20MNIST.ipynb
+* Work on your own project! 
 
+### Datasets
+* Astro: [https://camels-multifield-dataset.readthedocs.io/en/latest/]([https://camels-multifield-dataset.readthedocs.io/en/latest/)
+* IceCube dataset: [https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice)
+* Breast cancer histology: [https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
+* Drift tube chamber data: [https://zenodo.org/records/7128223](https://zenodo.org/records/7128223)
+  * Associated paper about data quality monitoring for this dataset: [https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf](https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf)
+ 
+### Prize Categories
+* Best project (effort, presentation, use of summer school topics): 1st, 2nd, and 3rd place
+* Best visualization
+* Best team effort
