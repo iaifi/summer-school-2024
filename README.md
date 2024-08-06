@@ -100,3 +100,7 @@ At the end of the Hackathon on Friday, August 9, we will have a block for presen
 * Best project (effort, presentation, use of summer school topics): 1st, 2nd, and 3rd place
 * Best visualization
 * Best team effort
+
+## NSF ACCESS Instructions
+
+[https://github.com/alexandergagliano/summer-school-2024/tree/main/computing](https://github.com/alexandergagliano/summer-school-2024/tree/main/computing)
