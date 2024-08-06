@@ -95,6 +95,9 @@ At the end of the Hackathon on Friday, August 9, we will have a block for presen
 * Breast cancer histology: [https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 * Drift tube chamber data: [https://zenodo.org/records/7128223](https://zenodo.org/records/7128223)
   * Associated paper about data quality monitoring for this dataset: [https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf](https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf)
+* Calorimeter data (Calo challenge): [https://github.com/CaloChallenge/homepage](https://github.com/CaloChallenge/homepage)
+* Gravitational lens dataset: [https://lweb.cfa.harvard.edu/castles/noimages.html](https://lweb.cfa.harvard.edu/castles/noimages.html)
+* Galaxies (COSMOS real galaxies dataset): [https://zenodo.org/records/3242143](https://zenodo.org/records/3242143)
  
 ### Prize Categories
 * Best project (effort, presentation, use of summer school topics): 1st, 2nd, and 3rd place
