@@ -34,14 +34,14 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
 ### Useful materials
 
 ### Tutorial
-(Author: Thomas Harvey)
+(Author: Thomas Harvey & Sokratis Trifinopoulos)
 
 * Tutorial Materials
   
-  *   
-* Reference papers and book chapters for tutorials
+  *  The exercise notebooks can be found here: https://github.com/iaifi/summer-school-2024/tree/main/Geometric_NNs
+* Reference papers and book chapters for tutorials:
   
-  *   
+  *   Equivariant machine learning structured like classical physics: https://arxiv.org/pdf/2106.06610
 
 ## 3. Scaling and renormalization in high-dimensional regression
 (Author: Cengiz Pehlevan)
