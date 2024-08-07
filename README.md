@@ -34,17 +34,18 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
 ### Useful materials
 
 ### Tutorial
-(Author: Thomas Harvey)
+(Author: Thomas Harvey & Sokratis Trifinopoulos)
 
 * Tutorial Materials
   
-  *   
-* Reference papers and book chapters for tutorials
+  *  The exercise notebooks can be found here: https://github.com/iaifi/summer-school-2024/tree/main/Geometric_NNs
+* Reference papers and book chapters for tutorials:
   
-  *   
+  *   Equivariant machine learning structured like classical physics: https://arxiv.org/pdf/2106.06610
 
 ## 3. Scaling and renormalization in high-dimensional regression
-(Author: Cengiz Pehlevan)
+(Author: Cengiz Pehlevan & Alex Atanasov)
+
 
 
 ### Useful materials
@@ -55,10 +56,20 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
 
 * Tutorial Materials
   
-  *   
-* Reference papers and book chapters for tutorials
+  *   Plase see the folder: https://github.com/iaifi/summer-school-2024/tree/main/RMT_Scaling_Laws
+
+### Reference papers and book chapters for tutorials
+
+Key paper:
+  *  Scaling and Renormalization in High Dimensional Regression https://arxiv.org/abs/2405.00592
   
-  *   
+ Related work:
+  * Dynamical Model of Neural Scaling Laws: https://arxiv.org/abs/2402.01092
+  * Spectral Bias and Task-Model Alignmeny Explain Generalization: https://arxiv.org/abs/2006.13198 
+
+Recommended Books:
+  * Potters and Bouchaud "A first course in Random Matrix Theory". Strongly recommended!
+
 
 ## 4. Uncertainty Quantification
 (Author: Carol Cueta-Lazaro)
@@ -95,8 +106,15 @@ At the end of the Hackathon on Friday, August 9, we will have a block for presen
 * Breast cancer histology: [https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 * Drift tube chamber data: [https://zenodo.org/records/7128223](https://zenodo.org/records/7128223)
   * Associated paper about data quality monitoring for this dataset: [https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf](https://iopscience.iop.org/article/10.1088/2632-2153/acebb7/pdf)
+* Calorimeter data (Calo challenge): [https://github.com/CaloChallenge/homepage](https://github.com/CaloChallenge/homepage)
+* Gravitational lens dataset: [https://lweb.cfa.harvard.edu/castles/noimages.html](https://lweb.cfa.harvard.edu/castles/noimages.html)
+* Galaxies (COSMOS real galaxies dataset): [https://zenodo.org/records/3242143](https://zenodo.org/records/3242143)
  
 ### Prize Categories
 * Best project (effort, presentation, use of summer school topics): 1st, 2nd, and 3rd place
 * Best visualization
 * Best team effort
+
+## NSF ACCESS Instructions
+
+[https://github.com/alexandergagliano/summer-school-2024/tree/main/computing](https://github.com/alexandergagliano/summer-school-2024/tree/main/computing)
