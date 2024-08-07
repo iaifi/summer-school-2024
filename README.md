@@ -44,7 +44,8 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
   *   Equivariant machine learning structured like classical physics: https://arxiv.org/pdf/2106.06610
 
 ## 3. Scaling and renormalization in high-dimensional regression
-(Author: Cengiz Pehlevan)
+(Author: Cengiz Pehlevan & Alex Atanasov)
+
 
 
 ### Useful materials
@@ -55,10 +56,20 @@ Notebook 3: [How good is your generative model?](https://github.com/glouppe/iaif
 
 * Tutorial Materials
   
-  *   
-* Reference papers and book chapters for tutorials
+  *   Plase see the folder: https://github.com/iaifi/summer-school-2024/tree/main/RMT_Scaling_Laws
+
+### Reference papers and book chapters for tutorials
+
+Key paper:
+  *  Scaling and Renormalization in High Dimensional Regression https://arxiv.org/abs/2405.00592
   
-  *   
+ Related work:
+  * Dynamical Model of Neural Scaling Laws: https://arxiv.org/abs/2402.01092
+  * Spectral Bias and Task-Model Alignmeny Explain Generalization: https://arxiv.org/abs/2006.13198 
+
+Recommended Books:
+  * Potters and Bouchaud "A first course in Random Matrix Theory". Strongly recommended!
+
 
 ## 4. Uncertainty Quantification
 (Author: Carol Cueta-Lazaro)
