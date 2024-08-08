@@ -78,14 +78,20 @@ Recommended Books:
 
   
 ### Tutorial
-(Author: Jessie Micallef)
+(Author: [Jessie Micallef](https://jessimic.github.io/tech-portfolio/))
 
 * Tutorial Materials
   
-  * 
+  * Intro slides: https://github.com/jessimic/sbi-tutorial-iaifi/blob/main/assets/SBI_Tutorial_Intro.pdf
+  * Tutorials: https://github.com/jessimic/sbi-tutorial-iaifi/tree/a8730f55642b7280c3c3bc1c33c8483af78f8305
+      * Main branch has fill in code blanks
+      * Answers branch has some solutions, including all solutions for Tutorial 1
 * Reference papers and book chapters for tutorials
+  * [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429) (Cranmer, Brehmer, Louppe): Review paper
+  * [simulation-based-inference.org](http://simulation-based-inference.org/): List of papers and resources
+  * [awesome-neural-sbi](https://github.com/smsharma/awesome-neural-sbi): List of papers and resources
   
-  * 
+    
 ## 5. Hackathon
 At the end of the Hackathon on Friday, August 9, we will have a block for presentations of work done on these topics. Forming groups is strongly encouraged!
 
