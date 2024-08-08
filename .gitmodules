@@ -1,0 +1,3 @@
+[submodule "sbi-tutorial-iaifi"]
+	path = sbi-tutorial-iaifi
+	url = https://github.com/jessimic/sbi-tutorial-iaifi
